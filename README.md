@@ -1,11 +1,18 @@
-# webdev
-# Hello World Project
+# Web Development Journey
 
-This project displays "Hello World" in a web browser using HTML.
+This repository documents my learning journey in Web Development and the MERN Stack. It includes practice exercises, assignments, and projects built while exploring modern web technologies.
 
-## Files
-- index.html
-- README.md
+### Tech Stack
 
-## How to Run
-Open index.html in any web browser.
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Git & GitHub
+
+This repository will be updated regularly as I continue to learn, build, and improve my development skills.
+
+**Rishita Jain**
